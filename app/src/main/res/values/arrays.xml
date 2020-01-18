@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Developer email: hiankit.work@gmail.com
+  ~ GitHub: https://github.com/bxute
+  -->
+
+<resources>
+    <string-array name="porter_duff_modes">
+        <item>SRC</item>
+        <item>SRC_IN</item>
+        <item>SRC_OVER</item>
+        <item>SRC_ATOP</item>
+
+        <item>DST</item>
+        <item>DST_IN</item>
+        <item>DST_OVER</item>
+        <item>DST_ATOP</item>
+        <item>CLEAR</item>
+
+        <item>SRC_OUT</item>
+        <item>DST_OUT</item>
+        <item>XOR</item>
+    </string-array>
+</resources>
